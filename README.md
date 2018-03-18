@@ -1,2 +1,2 @@
 # lecture-videos
-lecture video repository with some comments or time stamps
+Lecture video repository with some comments or time stamps
