@@ -11,16 +11,16 @@ Lecture video repository with some comments or time stamps
 
 ## Lectures
 
-###2017_2 Big Data and Info Retrieval Lectures
-  * 빅데이터와 정보검색 강의.
-    - 
-    - https://www.youtube.com/playlist?list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD
-    
-    * Lecture index
-      * course overview
-       - 이 lecture에서 앞으로 배울 내용들을 간략하게 정리한다.
-       - https://www.youtube.com/watch?v=Z-ptwY3fkVQ&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=1
-      * topic modeling , word embedding
-       - 
-       - https://www.youtube.com/watch?v=CCZ6LeanKIc&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=2
+### 2017_2 Big Data and Info Retrieval Lectures
+* 빅데이터와 정보검색 강의.
+* topic modeling, word emvedding, attention models, seq2seq models, question answering, memory networks 등을 다룬다.
+* 강의링크 : https://www.youtube.com/playlist?list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD
+
+
+#### Lecture index
+* course overview
+    - 앞으로 배울 내용들을 간략하게 정리한다.
+    - https://www.youtube.com/watch?v=Z-ptwY3fkVQ&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=1
+* topic modeling , word embedding
+    - https://www.youtube.com/watch?v=CCZ6LeanKIc&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=2
       
