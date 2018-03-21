@@ -1,10 +1,26 @@
 # lecture-videos
 Lecture video repository with some comments or time stamps
 
-## Lectures
+## Lectures Wiki
 
 * Convolutional Neural Networks for Text Classification:
     - https://youtu.be/bnmAsFBl4E4#t=1h08m08s (15m 30s)
 
 * Fully-Connected Layer Perspective about Convolution:
     - https://youtu.be/bnmAsFBl4E4#t=1h31m14s (13m 30s)
+
+## Lectures
+
+###2017_2 Big Data and Info Retrieval Lectures
+  * 빅데이터와 정보검색 강의.
+    - 
+    - https://www.youtube.com/playlist?list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD
+    
+    * Lecture index
+      * course overview
+       - 이 lecture에서 앞으로 배울 내용들을 간략하게 정리한다.
+       - https://www.youtube.com/watch?v=Z-ptwY3fkVQ&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=1
+      * topic modeling , word embedding
+       - 
+       - https://www.youtube.com/watch?v=CCZ6LeanKIc&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=2
+      
