@@ -22,7 +22,9 @@ Lecture video repository with some comments or time stamps
     - 앞으로 배울 내용들을 간략하게 정리한다.
     - https://www.youtube.com/watch?v=Z-ptwY3fkVQ&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=1
 * topic modeling , word embedding
-    - https://www.youtube.com/watch?v=CCZ6LeanKIc&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=2
+    - topic modeling, gradient descent, word embedding 등을 다룬다
+    - 키워드와 다큐먼트의 단어 언급이 간혹 바꿔 말하는 실수가 있으니 주의
+    - https://www.youtube.com/watch?v=CCZ6LeanKIc&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=2
 
 ---
 
