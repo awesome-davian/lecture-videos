@@ -9,7 +9,10 @@ Lecture video repository with some comments or time stamps
 * Fully-Connected Layer Perspective about Convolution:
     - https://youtu.be/bnmAsFBl4E4#t=1h31m14s (13m 30s)
 
-<<<<<<< .merge_file_a11288
+* Four Different Perspectives of Matrix Multiplications (+ Brief Intro to Low-Rank Factorization):
+    - https://youtu.be/00rwOWPEiY4#t=2h02m19s (36m 00s)
+    - Prerequisite: Span, Inner Product
+    
 ## Lectures (강의별 다루는 내용 모음)
 ---
 ### 2017_2 Big Data and Info Retrieval Lectures
@@ -31,8 +34,3 @@ Lecture video repository with some comments or time stamps
 
 ### 두 번째 강의 추가는 이쪽으로..!
 * 강의내용 ...
-=======
-* Four Different Perspectives of Matrix Multiplications (+ Brief Intro to Low-Rank Factorization):
-    - https://youtu.be/00rwOWPEiY4#t=2h02m19s (36m 00s)
-    - Prerequisite: Span, Inner Product
->>>>>>> .merge_file_a08208
