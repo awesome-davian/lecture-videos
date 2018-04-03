@@ -13,6 +13,10 @@ Lecture video repository with some comments or time stamps
     - https://youtu.be/00rwOWPEiY4#t=2h02m19s (36m 00s)
     - Prerequisite: Span, Inner Product
 
+
+* **[cs224n]** 4 explanation for Back propagation
+	- https://www.youtube.com/watch?v=isPiE-DBagM&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja&index=5&t=0s
+
 * Importance of Zero-centered Activation Function: (need to confirm)
     - https://youtu.be/vUimliXeBUY?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl&t=3682
     - https://youtu.be/Wew7bCVx2gI?list=PLep-kTP3NkcN43rnM4WrOYk7eXeB4s3DM&t=1411
@@ -34,7 +38,7 @@ Lecture video repository with some comments or time stamps
     - https://www.youtube.com/watch?v=Z-ptwY3fkVQ&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=1
 * topic modeling , word embedding (Lecture 2~4)
     - topic modeling, gradient descent, word embedding, negative sampling 등을 다룬다
-    - 키워드와 다큐먼트의 용어 언급에서 간혹 바꿔 말하는 실수가 있으니 주의
+    - 키워드와 다큐먼트의 용어 언급에서 간혹 바꿔 말하는 실수가 있으니 주의
     - https://www.youtube.com/watch?v=CCZ6LeanKIc&list=PLep-kTP3NkcNqn2MtzkscRlTDYTiqKjzD&index=2
 
 ---
