@@ -13,10 +13,17 @@ Lecture video repository with some comments or time stamps
     - https://youtu.be/00rwOWPEiY4#t=2h02m19s (36m 00s)
     - Prerequisite: Span, Inner Product
 
+
 * **[cs224n]** 4 explanation for Back propagation
 	- https://www.youtube.com/watch?v=isPiE-DBagM&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja&index=5&t=0s
 
-    
+* Importance of Zero-centered Activation Function: (need to confirm)
+    - https://youtu.be/vUimliXeBUY?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl&t=3682
+    - https://youtu.be/Wew7bCVx2gI?list=PLep-kTP3NkcN43rnM4WrOYk7eXeB4s3DM&t=1411
+
+* Dead ReLU: (need to confirm)
+    - https://youtu.be/kZlrHIu1cQ8?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl&t=3007 (9m)
+
 ## Lectures (강의별 다루는 내용 모음)
 ---
 ### 2017_2 Big Data and Info Retrieval Lectures
