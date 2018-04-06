@@ -19,15 +19,15 @@ Lecture video repository with some comments or time stamps
 
 
 * Importance of Zero-centered Activation Function: (need to confirm)
-    - https://youtu.be/vUimliXeBUY?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl&t=3682
-    - https://youtu.be/Wew7bCVx2gI?list=PLep-kTP3NkcN43rnM4WrOYk7eXeB4s3DM&t=1411
+    - https://youtu.be/vUimliXeBUY?t=3682
+    - https://youtu.be/Wew7bCVx2gI?t=1411
 
 * Dead ReLU: (need to confirm)
-    - https://youtu.be/kZlrHIu1cQ8?list=PLep-kTP3NkcNd2S-vXp3u_TXYbUIZclKl&t=3007 (9m)
+    - https://youtu.be/kZlrHIu1cQ8?t=3007 (9m)
     
 * Fancier Optimization Methods beyond SGD (need to confirm)
-    - Momentum : https://youtu.be/rAKk2t5USEc?list=PLep-kTP3NkcN43rnM4WrOYk7eXeB4s3DM&t=2785 (20m 30s)
-    - Adagrad/RMSProp/Adam : https://youtu.be/rAKk2t5USEc?list=PLep-kTP3NkcN43rnM4WrOYk7eXeB4s3DM&t=4672 (28m)
+    - Momentum : https://youtu.be/rAKk2t5USEc?t=2785 (20m 30s)
+    - Adagrad/RMSProp/Adam : https://youtu.be/rAKk2t5USEc?t=4672 (28m)
     
 
 ## Lectures (강의별 다루는 내용 모음)
