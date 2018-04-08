@@ -13,6 +13,9 @@ Lecture video repository with some comments or time stamps
     - https://youtu.be/00rwOWPEiY4#t=2h02m19s (36m 00s)
     - Prerequisite: Span, Inner Product
 
+* Shallow overview of second-order optimization techniques (why second-order methods don't require the step size):
+    - https://youtu.be/MGSw0wCwqmw#t=0h30cccms (21m 15s)
+    - Prerequisite: Vanilla Gradient Ddescnet
 
 * **[cs224n]** 4 explanation for Back propagation
 	- https://www.youtube.com/watch?v=isPiE-DBagM&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja&index=5&t=0s
