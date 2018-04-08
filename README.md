@@ -32,7 +32,10 @@ Lecture video repository with some comments or time stamps
     - Momentum : https://youtu.be/rAKk2t5USEc?t=2785 (20m 30s)
     - Adagrad/RMSProp/Adam : https://youtu.be/rAKk2t5USEc?t=4672 (28m)
     
-
+* Model Ensembles - train multiple indepent models (need to confirm)
+    - General description : https://youtu.be/rAKk2t5USEc?t=6369 (15m)
+    - Dropout (The idea is to train an ensemble of DNNs) : https://youtu.be/rAKk2t5USEc?t=7293 (22m)
+    
 ## Lectures (강의별 다루는 내용 모음)
 ---
 ### 2017_2 Big Data and Info Retrieval Lectures
