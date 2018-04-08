@@ -35,6 +35,7 @@ Lecture video repository with some comments or time stamps
 * Model Ensembles - train multiple indepent models (need to confirm)
     - General description : https://youtu.be/rAKk2t5USEc?t=6369 (15m)
     - Dropout (The idea is to train an ensemble of DNNs) : https://youtu.be/rAKk2t5USEc?t=7293 (22m)
+    - Generalization effect of SGD : https://youtu.be/rAKk2t5USEc?t=7561 (3m 10s)
     
 ## Lectures (강의별 다루는 내용 모음)
 ---
