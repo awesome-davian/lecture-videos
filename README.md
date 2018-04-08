@@ -28,7 +28,7 @@ Lecture video repository with some comments or time stamps
 * Dead ReLU: (need to confirm)
     - https://youtu.be/kZlrHIu1cQ8?t=3007 (9m)
     
-* Fancier Optimization Methods beyond SGD (need to confirm)
+* Fancier firt-order optimization techniques beyond SGD (need to confirm)
     - Momentum : https://youtu.be/rAKk2t5USEc?t=2785 (20m 30s)
     - Adagrad/RMSProp/Adam : https://youtu.be/rAKk2t5USEc?t=4672 (28m)
     
