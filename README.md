@@ -20,7 +20,6 @@ Lecture video repository with some comments or time stamps
 * **[cs224n]** 4 explanation for Back propagation
 	- https://www.youtube.com/watch?v=isPiE-DBagM&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja&index=5&t=0s
 
-
 * Importance of Zero-centered Activation Function: (need to confirm)
     - https://youtu.be/vUimliXeBUY?t=3682
     - https://youtu.be/Wew7bCVx2gI?t=1411
@@ -36,6 +35,17 @@ Lecture video repository with some comments or time stamps
     - General description : https://youtu.be/rAKk2t5USEc?t=6369 (15m)
     - Dropout (The idea is to train an ensemble of DNNs) : https://youtu.be/rAKk2t5USEc?t=7293 (22m)
     - Generalization effect of SGD : https://youtu.be/rAKk2t5USEc?t=7561 (3m 10s)
+
+* Epoch vs Iteration (need to confirm)
+    - https://youtu.be/_LCkwu6tH0M?t=2411
+
+* RNN/LSTM/GRU (need to confirm)
+    - RNN - Gradient Vanishing & Exploding
+       : Causes to occur (Repetition of same linear transformation) : https://youtu.be/_LCkwu6tH0M?t=3841 (6m 30s)
+       : Long-term Dependancy Problem : https://youtu.be/_LCkwu6tH0M?t=4237
+    - LSTM : https://youtu.be/_LCkwu6tH0M?t=4543
+    - GRU : https://youtu.be/_LCkwu6tH0M?t=6298, https://youtu.be/z3sBNVTuuss?t=133
+    
     
 ## Lectures (강의별 다루는 내용 모음)
 ---
