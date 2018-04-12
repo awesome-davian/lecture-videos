@@ -41,8 +41,8 @@ Lecture video repository with some comments or time stamps
 
 * RNN/LSTM/GRU (need to confirm)
     - RNN - Gradient Vanishing & Exploding
-       : Causes to occur (Repetition of same linear transformation) : https://youtu.be/_LCkwu6tH0M?t=3841 (6m 30s)
-       : Long-term Dependancy Problem : https://youtu.be/_LCkwu6tH0M?t=4237
+       + Causes to occur (Repetition of same linear transformation) : https://youtu.be/_LCkwu6tH0M?t=3841 (6m 30s)
+       + Long-term Dependancy Problem : https://youtu.be/_LCkwu6tH0M?t=4237
     - LSTM : https://youtu.be/_LCkwu6tH0M?t=4543
     - GRU : https://youtu.be/_LCkwu6tH0M?t=6298, https://youtu.be/z3sBNVTuuss?t=133
     
