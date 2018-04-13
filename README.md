@@ -45,7 +45,18 @@ Lecture video repository with some comments or time stamps
        + Long-term Dependancy Problem : https://youtu.be/_LCkwu6tH0M?t=4237
     - LSTM : https://youtu.be/_LCkwu6tH0M?t=4543
     - GRU : https://youtu.be/_LCkwu6tH0M?t=6298, https://youtu.be/z3sBNVTuuss?t=133
-    
+
+* Attention model (need to confirm)
+    - Core Explanation : https://youtu.be/7ivUO7ER0iE?t=776 (41m)
+    - Hard/Soft Attention : https://youtu.be/7ivUO7ER0iE?t=3259 (5m 30s)
+       + Stochastic Hard Attention : https://youtu.be/7ivUO7ER0iE?t=4099 (2m)
+    - Visual Question Answering (RNNs with Attention) : https://youtu.be/7ivUO7ER0iE?t=4386
+
+* Sequence to Sequence model (need to confirm)
+    - Chatbot/Machine Translation : https://youtu.be/7ivUO7ER0iE?t=4787
+    - Seq2seq with Attention : https://youtu.be/7ivUO7ER0iE?t=5131
+    - Attention example in Machine Translation (learning word-order) : https://youtu.be/7ivUO7ER0iE?t=5633
+
     
 ## Lectures (강의별 다루는 내용 모음)
 ---
