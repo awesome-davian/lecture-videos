@@ -62,12 +62,11 @@ Lecture video repository with some comments or time stamps
     - KL Divergence (Asymmetry, Greater than or equal to zero) : https://youtu.be/f5reJVwTK0U?t=1529
     - Cross Entropy Loss (cannot be equal to zero) : https://youtu.be/f5reJVwTK0U?t=2694
 * Gradient of Vector/Quadratic form (Ref. Matrix Calculus - https://goo.gl/XkCibf)
-    - Gradient Vector (multiple input and scalar output) : https://youtu.be/eAiQy5iQi5E?t=604
-    - Gradient of Quadratic form : https://youtu.be/eAiQy5iQi5E?t=880
+    - Gradient Vector (multiple input and scalar output) : https://youtu.be/eAiQy5iQi5E?t=604
+    - Gradient of Quadratic form : https://youtu.be/eAiQy5iQi5E?t=880
     - PCA : 1) centering 2) maximize the variance  https://youtu.be/eAiQy5iQi5E?t=1870
         + optimal C is found as an eigenvector - more about...
-    - Gaussian Kernel, How to define similarity measure
-        + https://youtu.be/eAiQy5iQi5E?t=2768
+    - Gaussian Kernel, How to define similarity measure : https://youtu.be/eAiQy5iQi5E?t=2768
     
 ## Lectures (강의별 다루는 내용 모음)
 --- 
