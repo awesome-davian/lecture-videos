@@ -23,43 +23,47 @@ Lecture video repository with some comments or time stamps
 * Importance of Zero-centered Activation Function: (need to confirm)
     - https://youtu.be/vUimliXeBUY?t=3682
     - https://youtu.be/Wew7bCVx2gI?t=1411
-
 * Dead ReLU: (need to confirm)
     - https://youtu.be/kZlrHIu1cQ8?t=3007 (9m)
-    
 * Fancier first-order optimization techniques beyond SGD (need to confirm)
     - Momentum : https://youtu.be/rAKk2t5USEc?t=2785 (20m 30s)
     - Adagrad/RMSProp/Adam : https://youtu.be/rAKk2t5USEc?t=4672 (28m)
-    
 * Model Ensembles - train multiple indepent models (need to confirm)
     - General description : https://youtu.be/rAKk2t5USEc?t=6369 (15m)
     - Dropout (The idea is to train an ensemble of DNNs) : https://youtu.be/rAKk2t5USEc?t=7293 (22m)
     - Generalization effect of SGD : https://youtu.be/rAKk2t5USEc?t=7561 (3m 10s)
 
-* Epoch vs Iteration (need to confirm)
-    - https://youtu.be/_LCkwu6tH0M?t=2411
-
+### RNN (need to confirm)
 * RNN/LSTM/GRU (need to confirm)
     - RNN - Gradient Vanishing & Exploding
        + Causes to occur (Repetition of same linear transformation) : https://youtu.be/_LCkwu6tH0M?t=3841 (6m 30s)
        + Long-term Dependancy Problem : https://youtu.be/_LCkwu6tH0M?t=4237
     - LSTM : https://youtu.be/_LCkwu6tH0M?t=4543
+       + Key success factor of LSTM and RESNet : https://youtu.be/f5reJVwTK0U?t=3750
     - GRU : https://youtu.be/_LCkwu6tH0M?t=6298, https://youtu.be/z3sBNVTuuss?t=133
-
 * Attention model (need to confirm)
     - Core Explanation : https://youtu.be/7ivUO7ER0iE?t=776 (41m)
     - Hard/Soft Attention : https://youtu.be/7ivUO7ER0iE?t=3259 (5m 30s)
        + Stochastic Hard Attention : https://youtu.be/7ivUO7ER0iE?t=4099 (2m)
-    - Visual Question Answering (RNNs with Attention) : https://youtu.be/7ivUO7ER0iE?t=4386
-
+    - Visual Question Answering (RNNs with Attention)
+       + https://youtu.be/ut24qA_Gxu0?t=2936 (
+       + https://youtu.be/7ivUO7ER0iE?t=4386
 * Sequence to Sequence model (need to confirm)
     - Chatbot/Machine Translation : https://youtu.be/7ivUO7ER0iE?t=4787
     - Seq2seq with Attention : https://youtu.be/7ivUO7ER0iE?t=5131
     - Attention example in Machine Translation (learning word-order) : https://youtu.be/7ivUO7ER0iE?t=5633
 
+### ML Basics (need to confirm)
+* Epoch vs Iteration
+    - https://youtu.be/_LCkwu6tH0M?t=2411
+* Distance : Cross Entropy, KL Divergence(=distance, similar but different w/ metric), Edit distance
+    - General description with regard to distance : https://youtu.be/f5reJVwTK0U?t=379
+    - KL Divergence (Asymmetry, Greater than or equal to zero) : https://youtu.be/f5reJVwTK0U?t=1529
+* Cross Entropy Loss (cannot be equal to zero)
+    - https://youtu.be/f5reJVwTK0U?t=2694
     
 ## Lectures (강의별 다루는 내용 모음)
----
+--- 
 ### 2017_2 Big Data and Info Retrieval Lectures
 * 빅데이터와 정보검색 강의.
 * topic modeling, word emvedding, attention models, seq2seq models, question answering, memory networks 등을 다룬다.
