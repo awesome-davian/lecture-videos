@@ -20,7 +20,7 @@ Lecture video repository with some comments or time stamps
 * **[cs224n]** 4 explanation for Back propagation
 	- https://www.youtube.com/watch?v=isPiE-DBagM&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja&index=5&t=0s
 
-### Deep Learning Details (need to confirm)
+#### Deep Learning Details (need to confirm)
 * Importance of Zero-centered Activation Function: (need to confirm)
     - https://youtu.be/vUimliXeBUY?t=3682
     - https://youtu.be/Wew7bCVx2gI?t=1411
