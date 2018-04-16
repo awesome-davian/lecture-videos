@@ -34,13 +34,22 @@ Lecture video repository with some comments or time stamps
     - Dropout (The idea is to train an ensemble of DNNs) : https://youtu.be/rAKk2t5USEc?t=7293 (22m)
     - Generalization effect of SGD : https://youtu.be/rAKk2t5USEc?t=7561 (3m 10s)
 
+#### CNN (need to confirm)
+* Case Studies of CNN Architectures
+    - VGGNet - (1) much deeper, (2) only 3x3 CONV: https://youtu.be/eTHlqBpRQDc?t=761
+        + why does the stack of three 3X3 conv layers have same effective receptive field as one 7X7 conv?
+        + the stack of three 3x3 conv layers has fewer parameters than 7x7 conv layer
+    - GoogLeNet : https://youtu.be/eTHlqBpRQDc?t=1765
+        + "inception module" : multiple receptive filed sizes, "1x1 convolution", "Auxiliary classification outputs to inject additional gradient at lower layers"
+    - ResNet : https://youtu.be/eTHlqBpRQDc?t=3673	
+
 #### RNN (need to confirm)
 * RNN/LSTM/GRU
     - RNN - Gradient Vanishing & Exploding
        + Causes to occur (Repetition of same linear transformation) : https://youtu.be/_LCkwu6tH0M?t=3841 (6m 30s)
        + Long-term Dependancy Problem : https://youtu.be/_LCkwu6tH0M?t=4237
     - LSTM : https://youtu.be/_LCkwu6tH0M?t=4543
-       + Key success factor of LSTM and RESNet : https://youtu.be/f5reJVwTK0U?t=3750
+       + Key success factor of LSTM and ResNet : https://youtu.be/f5reJVwTK0U?t=3750
     - GRU : https://youtu.be/_LCkwu6tH0M?t=6298, https://youtu.be/z3sBNVTuuss?t=133
 * Attention model
     - Core Explanation : https://youtu.be/7ivUO7ER0iE?t=776 (41m)
