@@ -41,7 +41,8 @@ Lecture video repository with some comments or time stamps
         + the stack of three 3x3 conv layers has fewer parameters than 7x7 conv layer
     - GoogLeNet : https://youtu.be/eTHlqBpRQDc?t=1765
         + "inception module" : multiple receptive filed sizes, "1x1 convolution", "Auxiliary classification outputs to inject additional gradient at lower layers"
-    - ResNet : https://youtu.be/eTHlqBpRQDc?t=3673	
+    - ResNet : https://youtu.be/eTHlqBpRQDc?t=3673
+        + Residual connections enabling very deep networks (like 152-layer model)    
 
 #### RNN (need to confirm)
 * RNN/LSTM/GRU
