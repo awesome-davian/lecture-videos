@@ -56,7 +56,7 @@ Lecture video repository with some comments or time stamps
     - Core Explanation : https://youtu.be/7ivUO7ER0iE?t=776 (41m)
     - Hard/Soft Attention : https://youtu.be/7ivUO7ER0iE?t=3259 (5m 30s)
        + Stochastic Hard Attention : https://youtu.be/7ivUO7ER0iE?t=4099 (2m)
-    - Intuitive explanation for how attention works (supervised or not) : https://youtu.be/ut24qA_Gxu0?t=2341
+    - Intuitive explanation for how attention works (whether supervised or not) : https://youtu.be/ut24qA_Gxu0?t=2341
     - Visual Question Answering (RNNs with Attention)
        + https://youtu.be/ut24qA_Gxu0?t=2936
        + https://youtu.be/7ivUO7ER0iE?t=4386
