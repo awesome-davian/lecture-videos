@@ -21,15 +21,15 @@ Lecture video repository with some comments or time stamps
 	- https://www.youtube.com/watch?v=isPiE-DBagM&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja&index=5&t=0s
 
 #### Deep Learning Details (need to confirm)
-* Importance of Zero-centered Activation Function: (need to confirm)
+* Importance of Zero-centered Activation Function:
     - https://youtu.be/vUimliXeBUY?t=3682
     - https://youtu.be/Wew7bCVx2gI?t=1411
-* Dead ReLU: (need to confirm)
+* Dead ReLU:
     - https://youtu.be/kZlrHIu1cQ8?t=3007 (9m)
-* Fancier first-order optimization techniques beyond SGD (need to confirm)
+* Fancier first-order optimization techniques beyond SGD
     - Momentum : https://youtu.be/rAKk2t5USEc?t=2785 (20m 30s)
     - Adagrad/RMSProp/Adam : https://youtu.be/rAKk2t5USEc?t=4672 (28m)
-* Model Ensembles - train multiple indepent models (need to confirm)
+* Model Ensembles - train multiple indepent models
     - General description : https://youtu.be/rAKk2t5USEc?t=6369 (15m)
     - Dropout (The idea is to train an ensemble of DNNs) : https://youtu.be/rAKk2t5USEc?t=7293 (22m)
     - Generalization effect of SGD : https://youtu.be/rAKk2t5USEc?t=7561 (3m 10s)
@@ -56,6 +56,7 @@ Lecture video repository with some comments or time stamps
     - Core Explanation : https://youtu.be/7ivUO7ER0iE?t=776 (41m)
     - Hard/Soft Attention : https://youtu.be/7ivUO7ER0iE?t=3259 (5m 30s)
        + Stochastic Hard Attention : https://youtu.be/7ivUO7ER0iE?t=4099 (2m)
+    - Intuitive explanation for how attention works (supervised or not) : https://youtu.be/ut24qA_Gxu0?t=2341
     - Visual Question Answering (RNNs with Attention)
        + https://youtu.be/ut24qA_Gxu0?t=2936
        + https://youtu.be/7ivUO7ER0iE?t=4386
