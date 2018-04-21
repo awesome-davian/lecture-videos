@@ -64,7 +64,10 @@ Lecture video repository with some comments or time stamps
     - Chatbot/Machine Translation : https://youtu.be/7ivUO7ER0iE?t=4787
     - Seq2seq with Attention : https://youtu.be/7ivUO7ER0iE?t=5131
     - Attention example in Machine Translation (learning word-order) : https://youtu.be/7ivUO7ER0iE?t=5633
-* Negative Sampling : https://youtu.be/RjwznuzQAOo?t=3225
+
+#### NLP
+* Word2Vec
+    - Negative Sampling : https://youtu.be/RjwznuzQAOo?t=3225
 
 #### ML Basics (need to confirm)
 * Epoch vs Iteration
