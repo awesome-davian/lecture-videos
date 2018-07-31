@@ -65,9 +65,20 @@ Lecture video repository with some comments or time stamps
     - Seq2seq with Attention : https://youtu.be/7ivUO7ER0iE?t=5131
     - Attention example in Machine Translation (learning word-order) : https://youtu.be/7ivUO7ER0iE?t=5633
 
+#### Advanced NLP Model
+* ConvS2S : https://youtu.be/FuXkWwoyAKk
+    - Gated Linear Unit : https://youtu.be/JqkfT1s60cI?t=2902
+    - fairseq : https://youtu.be/FuXkWwoyAKk?t=7479
+* Positional Encoding : https://youtu.be/FuXkWwoyAKk?t=4422
+* Transformer : https://youtu.be/FuXkWwoyAKk?t=7760
+    - Query, Key, Value : https://youtu.be/FuXkWwoyAKk?t=7819
+
 #### NLP
 * Word2Vec
     - Negative Sampling : https://youtu.be/RjwznuzQAOo?t=3225
+* BLEU, PPL : https://youtu.be/FuXkWwoyAKk?t=5039
+* BPE (Byte Pair Encoding - Character Lv. Embedding) : https://youtu.be/FuXkWwoyAKk?t=5857
+* Char (Sub-Word) vs Word Embedding : https://youtu.be/FuXkWwoyAKk?t=6401
 
 #### ML Basics (need to confirm)
 * Epoch vs Iteration
