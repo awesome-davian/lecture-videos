@@ -33,6 +33,7 @@ Lecture video repository with some comments or time stamps
     - General description : https://youtu.be/rAKk2t5USEc?t=6369 (15m)
     - Dropout (The idea is to train an ensemble of DNNs) : https://youtu.be/rAKk2t5USEc?t=7293 (22m)
     - Generalization effect of SGD : https://youtu.be/rAKk2t5USEc?t=7561 (3m 10s)
+* Stochastic GD, Mini-Batch GD : [Link](https://youtu.be/hJK4MENXyAU?t=7)
 
 #### CNN (need to confirm)
 * Case Studies of CNN Architectures
@@ -68,10 +69,11 @@ Lecture video repository with some comments or time stamps
 #### Advanced NLP Model
 * ConvS2S : https://youtu.be/FuXkWwoyAKk
     - Gated Linear Unit : https://youtu.be/JqkfT1s60cI?t=2902
-    - fairseq : https://youtu.be/FuXkWwoyAKk?t=7479
+    - fairseq (operation animation) : https://youtu.be/FuXkWwoyAKk?t=7479
 * Positional Encoding : https://youtu.be/FuXkWwoyAKk?t=4422
 * Transformer : https://youtu.be/FuXkWwoyAKk?t=7760
     - Query, Key, Value : https://youtu.be/FuXkWwoyAKk?t=7819
+    
 
 #### NLP
 * Word2Vec
