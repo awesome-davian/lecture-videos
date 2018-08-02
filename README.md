@@ -73,7 +73,9 @@ Lecture video repository with some comments or time stamps
 * Positional Encoding : https://youtu.be/FuXkWwoyAKk?t=4422
 * Transformer : https://youtu.be/FuXkWwoyAKk?t=7760
     - Query, Key, Value : https://youtu.be/FuXkWwoyAKk?t=7819
-    
+    - Warmup Scheduler (Slanted triangular learning rates) : [https://youtu.be/FuXkWwoyAKk?t=13992](https://youtu.be/FuXkWwoyAKk?t=13992)    
+* Self Attention in vision domain : [Link](https://youtu.be/FuXkWwoyAKk?t=13261)
+    - Self Attention GAN [Link](https://youtu.be/FuXkWwoyAKk?t=13653)
 
 #### NLP
 * Word2Vec
