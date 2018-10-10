@@ -119,3 +119,14 @@ Lecture video repository with some comments or time stamps
 
 ### 두 번째 강의 추가는 이쪽으로..!
 * 강의내용 ...
+
+
+
+## DAVIAN Meeting
+
+### Abnormal Colon Polyp Image Synthesis Using Conditional Adversarial Networks for Improved Detection Performance (Article in IEEE Access, October, 2018)
+#### 2018-10-09
+* Modified U-Net based Generator model : https://youtu.be/0rQrFra-qK0?t=235 (+14m)
+* Deconv and Transposed conv : https://youtu.be/0rQrFra-qK0?t=736 (+4m50s)
+* Im2col : https://youtu.be/0rQrFra-qK0?t=1031 (+11m)
+
