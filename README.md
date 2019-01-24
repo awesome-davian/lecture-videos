@@ -20,7 +20,7 @@ Lecture video repository with some comments or time stamps
 * **[cs224n]** 4 explanation for Back propagation
 	- https://www.youtube.com/watch?v=isPiE-DBagM&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja&index=5&t=0s
 
-#### Deep Learning Details (need to confirm)
+#### Deep Learning Details
 * Importance of Zero-centered Activation Function:
     - https://youtu.be/vUimliXeBUY?t=3682
     - https://youtu.be/Wew7bCVx2gI?t=1411
@@ -35,7 +35,7 @@ Lecture video repository with some comments or time stamps
     - Generalization effect of SGD : https://youtu.be/rAKk2t5USEc?t=7561 (3m 10s)
 * Stochastic GD, Mini-Batch GD : [Link](https://youtu.be/hJK4MENXyAU?t=7)
 
-#### CNN (need to confirm)
+#### CNN
 * Case Studies of CNN Architectures
     - VGGNet - (1) much deeper, (2) only 3x3 CONV: https://youtu.be/eTHlqBpRQDc?t=761
         + why does the stack of three 3X3 conv layers have same effective receptive field as one 7X7 conv?
@@ -44,8 +44,10 @@ Lecture video repository with some comments or time stamps
         + "inception module" : multiple receptive filed sizes, "1x1 convolution", "Auxiliary classification outputs to inject additional gradient at lower layers"
     - ResNet : https://youtu.be/eTHlqBpRQDc?t=3673
         + Residual connections enabling very deep networks (like 152-layer model)    
-
-#### RNN (need to confirm)
+* Tansposed Convolution / Deconv
+    - https://youtu.be/-OgUV_Tumhk?list=PLep-kTP3NkcN3yfLLTCaEhZ8K0FmHy2Lh&t=582
+    
+#### RNN
 * RNN/LSTM/GRU
     - RNN - Gradient Vanishing & Exploding
        + Causes to occur (Repetition of same linear transformation) : https://youtu.be/_LCkwu6tH0M?t=3841 (6m 30s)
@@ -84,7 +86,7 @@ Lecture video repository with some comments or time stamps
 * BPE (Byte Pair Encoding - Character Lv. Embedding) : https://youtu.be/FuXkWwoyAKk?t=5857
 * Char (Sub-Word) vs Word Embedding : https://youtu.be/FuXkWwoyAKk?t=6401
 
-#### ML Basics (need to confirm)
+#### ML Basics
 * Epoch vs Iteration
     - https://youtu.be/_LCkwu6tH0M?t=2411
 * Distance : KL Divergence(=distance, similar but different w/ metric), Edit distance, etc.
