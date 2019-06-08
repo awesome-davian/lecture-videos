@@ -99,7 +99,14 @@ Lecture video repository with some comments or time stamps
     - PCA : 1) centering 2) maximize the variance  https://youtu.be/eAiQy5iQi5E?t=1870
         + optimal C is found as an eigenvector - more about...
     - Gaussian Kernel, How to define similarity measure : https://youtu.be/eAiQy5iQi5E?t=2768
+
+#### Demenstion Reduction
+* overview : https://youtu.be/TZeZek9OQMY?list=PLep-kTP3NkcPmmhKqP4KLTtUK9jduYEuQ&t=4539
+* Feature extraction
+    - Linear : PCA (https://youtu.be/RJ38jMYaTIE?list=PLep-kTP3NkcPmmhKqP4KLTtUK9jduYEuQ&t=1826)
     
+
+
 ## Lectures (강의별 다루는 내용 모음)
 --- 
 ### 2017_2 Big Data and Info Retrieval Lectures
